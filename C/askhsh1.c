@@ -41,12 +41,12 @@ int main()
 
     printf("your tax is %.2f\n",tax);
     
-    printf("Did you pay the the tax till the first month? ");
+    printf("Did you pay the tax in the first month? ");
     scanf(" %5s", answer);
 
     if(strcasecmp(answer, "yes")==0){
         tax=tax-tax*0.1;
-        printf("\nSince you paid, you have a discount at you tax which is %.2f",tax);
+        printf("\nSince you paid, you have a discount on your tax which is %.2f",tax);
     }
     else if (strcasecmp(answer, "no")==0)
     {

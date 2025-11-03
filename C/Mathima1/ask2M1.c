@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
+//Einai h askhsh 2 apo to mathhma 1 ths C
 int main(){
     float N,L,sum=0.0,x;
      

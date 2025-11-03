@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Einai h askhsh 3 apo to mathhma 1 ths C
 int main()
 {
     float a, b, result;
